@@ -1,0 +1,71 @@
+Array
+(
+    [curso_id] => 6
+)
+
+
+[16-Sep-2024 17:36:30 America/Santiago] Estudiante actualizado con ID: 659
+[16-Sep-2024 17:36:30 America/Santiago] Registro de notas insertado con ID: 504
+[16-Sep-2024 17:36:30 America/Santiago] Nueva matrícula insertada con ID: 500
+[16-Sep-2024 17:36:30 America/Santiago] Transacción completada con éxito
+[02-Oct-2024 22:43:39 America/Santiago] Nuevo estudiante insertado con ID: 682
+[02-Oct-2024 22:43:39 America/Santiago] Registro de notas insertado con ID: 505
+[02-Oct-2024 22:43:39 America/Santiago] Nueva matrícula insertada con ID: 501
+[02-Oct-2024 22:43:39 America/Santiago] Transacción completada con éxito
+Array
+(
+    [curso_id] => 131
+)
+
+
+[02-Oct-2024 22:47:55 America/Santiago] Nuevo estudiante insertado con ID: 683
+[02-Oct-2024 22:47:55 America/Santiago] Registro de notas insertado con ID: 506
+[02-Oct-2024 22:47:55 America/Santiago] Nueva matrícula insertada con ID: 502
+[02-Oct-2024 22:47:55 America/Santiago] Transacción completada con éxito
+Array
+(
+    [curso_id] => 132
+)
+
+
+[21-Oct-2024 16:27:27 America/Santiago] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home3/ichnccl/public_html/norteamericanoconcepcion.cl/certificacion/index.php on line 451
+[21-Oct-2024 16:27:29 America/Santiago] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home3/ichnccl/public_html/norteamericanoconcepcion.cl/certificacion/index.php on line 197
+[29-Oct-2024 14:18:09 America/Santiago] Estudiante actualizado con ID: 317
+[29-Oct-2024 14:18:09 America/Santiago] Registro de notas insertado con ID: 507
+[29-Oct-2024 14:18:09 America/Santiago] Nueva matrícula insertada con ID: 503
+[29-Oct-2024 14:18:09 America/Santiago] Transacción completada con éxito
+Array
+(
+    [curso_id] => 6
+)
+
+
+[28-Nov-2024 15:13:37 America/Santiago] Estudiante actualizado con ID: 317
+[28-Nov-2024 15:13:37 America/Santiago] Registro de notas insertado con ID: 508
+[28-Nov-2024 15:13:37 America/Santiago] Nueva matrícula insertada con ID: 504
+[28-Nov-2024 15:13:37 America/Santiago] Transacción completada con éxito
+Array
+(
+    [curso_id] => 6
+)
+
+
+[12-Apr-2025 10:53:26 America/Santiago] Estudiante actualizado con ID: 317
+[12-Apr-2025 10:53:26 America/Santiago] Error en la matriculación: El estudiante ya está matriculado en este curso.
+Array
+(
+    [curso_id] => 135
+)
+
+
+[12-Apr-2025 11:36:06 America/Santiago] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home3/ichnccl/public_html/norteamericanoconcepcion.cl/certificacion/index.php on line 451
+[12-Apr-2025 11:36:06 America/Santiago] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home3/ichnccl/public_html/norteamericanoconcepcion.cl/certificacion/index.php on line 451
+[12-Apr-2025 11:36:06 America/Santiago] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home3/ichnccl/public_html/norteamericanoconcepcion.cl/certificacion/index.php on line 451
+[12-Apr-2025 11:36:22 America/Santiago] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home3/ichnccl/public_html/norteamericanoconcepcion.cl/certificacion/index.php on line 197
+[12-Apr-2025 11:36:24 America/Santiago] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home3/ichnccl/public_html/norteamericanoconcepcion.cl/certificacion/index.php on line 197
+Array
+(
+    [curso_id] => 135
+)
+
+
